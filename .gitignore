@@ -7,7 +7,6 @@
 
 # bundler cache
 _site
-vendor
 
 # rubygem
 *.gem

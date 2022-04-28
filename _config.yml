@@ -30,7 +30,7 @@ description: >-                      # used by seo meta and the atom feed
   Bltz Sergio Motrel Blog, computer science student at UVA, ethical hacking and pentesting learner, mostly focused on writeups of tryhackme and hackthebox rooms.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://motrouva.github.io'
+url: 'https://bltztr.github.io'
 
 github:
   username: Bltztr             # change to your github username

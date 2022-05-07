@@ -1,9 +1,9 @@
 ---
 title: All in one tryhackme writeup
+image: /assets/allinone.png
 date: 2022-04-27 22:26:00 +0200
 categories: [Blog, Writeup]
 tags: [writeup, tryhackme, pentesting, pen, testing, hacking, ethical, all, in, one]
-render_with_liquid: false
 comments: false
 description: this is a test
 

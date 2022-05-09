@@ -2,7 +2,7 @@
 title: Boiler | Tryhackme writeup
 date: 2022-05-05 18:30:00 +0200
 categories: [Blog, Writeup]
-tags: [writeup, tryhackme, pentesting, pen, testing, hacking, ethical, Boiler, ftp]
+tags: [writeup, tryhackme, pentesting, penetration, testing, hacking, ethical, Boiler, ftp, Medium difficulty, SUID privesc]
 comments: false
 
 ---

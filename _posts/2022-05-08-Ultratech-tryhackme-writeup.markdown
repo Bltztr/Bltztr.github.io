@@ -30,7 +30,7 @@ _**-sCV** scan to know version and service of ports 31331 8081_
 The ports finally are **Apache** http for 31331 and **Node** for 8081.
 
 Im running **whatweb** in parallel to know what technologies the webs have.
-![Web scanning with watweb](/assets/img/ultratech/003.png)
+![Web scanning with watweb](/assets/img/ultratech/003.png)
 _Web scanning with whatweb_
 I don't find nothing interesting so now i'm going to visit the port 31331 web first and see what i can find.
 

@@ -17,6 +17,8 @@ These are some topic you will see in this room:
 - Abuse of sudo permissions for privilege escalation
 - Abuse of cron job for privilege escalation
 
+Room link: [Watcher room Tryhackme](https://tryhackme.com/room/watcher)
+
 # Scanning
 
 To know what os I'm facing i start by running **ping -c 1 <VICTIMIP>**, thanks to the TTL i can guess that this is a Linux box.
